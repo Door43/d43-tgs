@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgs:home|Door43 (tgs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgs|d43-tgs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgs/archive/master.zip|d43-tgs.zip]]
+
+**Recent Changes**
+{{changes>ns = tgs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgs|Ethnologue data]]
+
